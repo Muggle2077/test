@@ -1,6 +1,8 @@
 # test
 
-<s>aaa</s>
+<u>下划线</u>
+
+<s>删除线</s>
 
 <!DOCTYPE html>
 <html>
